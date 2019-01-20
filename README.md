@@ -23,16 +23,19 @@ README.md of your fork.
 Good luck!
 
 P.S: And unit tests! We love unit tests!
+
 -------------------------------------------------------------------------------------------------------------------------------
-Develop in C#, use Asp.net Mvc5 framework
-dependency injection and repository patterns
-Entity framework 6 code first approach
-GeekHunter.sqlite is put in App_Data folder of web project
+
+# App Structure
+  * Develop in C#, use Asp.net Mvc5 framework
+  * dependency injection and repository patterns
+  * Entity framework 6 code first approach
+  * GeekHunter.sqlite data file is put in App_Data folder of web project
  
-Packages Used:
-StructureMap for resolving dependency injection
-System.Data.SQLite package and dlls for EF6 SQLite DDEX provider 
-Chosen.Jquery lib for skills multi-select control
-AutoMapper for data transfer object mapping
-moq for dependency injection in unit tests
-Log4net for logging and log file location can be set in config file 
+# Packages Used:
+  * StructureMap for resolving dependency injection
+  * System.Data.SQLite package and dlls for EF6 SQLite DDEX provider 
+  * Chosen.Jquery lib for creating skills multi-select control
+  * AutoMapper for data transfer object mappings
+  * moq for dependency injection in unit tests
+  * Log4net for logging and log file location can be set in config file 
