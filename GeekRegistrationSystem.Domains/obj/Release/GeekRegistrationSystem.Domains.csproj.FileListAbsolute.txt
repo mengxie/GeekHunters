@@ -1,0 +1,13 @@
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\GeekRegistrationSystem.Domains.dll.config
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\GeekRegistrationSystem.Domains.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\GeekRegistrationSystem.Domains.pdb
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\EntityFramework.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\System.Data.SQLite.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\EntityFramework.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\obj\Release\GeekRegistrationSystem.Domains.csprojResolveAssemblyReference.cache
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\obj\Release\GeekRegistrationSystem.Domains.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.Domains\obj\Release\GeekRegistrationSystem.Domains.pdb

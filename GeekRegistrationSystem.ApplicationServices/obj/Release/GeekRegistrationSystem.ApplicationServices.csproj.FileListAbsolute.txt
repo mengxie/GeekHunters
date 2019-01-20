@@ -1,0 +1,16 @@
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\GeekRegistrationSystem.ApplicationServices.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\GeekRegistrationSystem.ApplicationServices.pdb
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\AutoMapper.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\GeekRegistrationSystem.Domains.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\log4net.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\System.ValueTuple.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\EntityFramework.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\GeekRegistrationSystem.Domains.pdb
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\AutoMapper.pdb
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\AutoMapper.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\log4net.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\System.ValueTuple.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\bin\Release\EntityFramework.xml
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\obj\Release\GeekRegistrationSystem.ApplicationServices.csprojResolveAssemblyReference.cache
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\obj\Release\GeekRegistrationSystem.ApplicationServices.dll
+C:\Users\xiem\Source\Repos\GeekHunters\GeekRegistrationSystem.ApplicationServices\obj\Release\GeekRegistrationSystem.ApplicationServices.pdb
